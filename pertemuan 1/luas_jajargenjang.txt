@@ -1,0 +1,12 @@
+algoritma:
+1. deklarasi panjang, tinggi
+2. masukan panjang = 5, tinggi = 3
+3. hitung luas = panjang * tinggi
+4. tampilkan luas
+
+pseudocode:
+var panjang, tinggi
+panjang <- 5
+tinggi <- 3
+luas = panjang * tinggi
+write(luas)

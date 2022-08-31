@@ -1,0 +1,11 @@
+algoritma fpb:
+1. jika n = 0, return nilai m sebagai hasil dan stop. jika tidak, kembali ke step 2
+2. bagi nilai m dengan n, masukan nilai sisanya ke r
+3. masukan nilai n ke m dan nilai r ke n. ulang ke step 1
+
+pseudocode:
+while n != 0 do
+	r <- m mod n
+	m <- n
+	n <- r
+return m

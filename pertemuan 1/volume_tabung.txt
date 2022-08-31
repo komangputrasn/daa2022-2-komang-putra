@@ -1,0 +1,13 @@
+algoritma:
+1. deklarasi jari-jari, tinggi, pi
+2. masukan jari-jari = 3, tinggi = 5, pi = 3.14
+3. hitung volume = pi * jari-jari ^ 2 * tinggi
+4. tampilkan volume ke layar
+
+pseudocode:
+var jari-jari, tinggi, pi
+jari-jari <= 3 
+tinggi <- 5
+pi <- 3.14
+volume <- pi * jari-jari ^ 2 * tinggi
+write(volume) 

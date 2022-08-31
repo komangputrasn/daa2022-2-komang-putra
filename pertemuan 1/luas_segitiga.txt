@@ -1,0 +1,12 @@
+algorima:
+1. deklarasi luas, alas, dan tinggi
+2. masukan alas = 25, tinggi = 30
+3. hitung luas = 1/2 * alas * tinggi
+4. tampilkan luas
+
+pseudocode:
+var luas, alas, tinggi
+alas <- 25
+tinggi <- 30
+luas = 1/2 * alas * tinggi
+write(luas)

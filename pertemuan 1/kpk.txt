@@ -1,0 +1,12 @@
+algoritma KPK:
+1. tentukan nilai fpb(3, 4), simpan hasilnya ke variabel hasil_fpb
+2. hitung nilai 3 * 4 / hasil_fpb, masukan hasilnya ke result
+3. kembalikan result sebagai hasil dari KPK
+
+a * b = fpb(a, b) * kpk(a, b)
+kpk(a, b) = a * b / fpb(a, b)
+
+pseudocode:
+hasil_fpb <- fpb(3, 4)
+result <- 3 * 4 / hasil_fpb
+return result
